@@ -1,4 +1,4 @@
-# Huddle Alternating Responsive landing page - FrontEndMentor
+# Huddle landing page with alternating feature blocks - FrontEndMentor
 
 # Welcome! :raising_hand:
 A Challenge from (https://www.frontendmentor.io)
