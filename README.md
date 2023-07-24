@@ -5,6 +5,8 @@ A Challenge from (https://www.frontendmentor.io)
 
 Access the result here: https://huddle-alternating-responsive.netlify.app/
 
+And please, all suggestions or tips are welcome!
+
 # Folder Structure
 :black_circle: design (the model images from Frontend Mentor)
 
